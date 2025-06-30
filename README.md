@@ -118,7 +118,7 @@ alps-crm/
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/<your-username>/alps-crm.git
+   git clone https://github.com/ManixGT/ALPS-CRM.git
    cd alps-crm
    ```
 
@@ -177,11 +177,9 @@ alps-crm/
 For questions or feedback, please contact:
 
 - **Your Name**
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [your-username](https://github.com/your-username)
+- Email: [manigupta28201@gmail.com](mailto:manigupta28201@gmail.com)
+- GitHub: [ManixGT](https://github.com/ManixGT)
+- Linkedin: [Suryamani Gupta](http://www.linkedin.com/in/manig01)
+- Resume_Link: [Resume_Gdrive](https://drive.google.com/file/d/1I_RoCcNn1hunKobVEg6pJNhKnkzNjDmg/view?usp=sharing)
 
 **Happy coding! 🚀**
-
-```
-
-```
