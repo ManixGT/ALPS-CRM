@@ -176,7 +176,8 @@ alps-crm/
 
 For questions or feedback, please contact:
 
-- **Your Name**
+- **Suryamani Gupta**
+- MERN + Java Backend Developer with 3yr expeirience
 - Email: [manigupta28201@gmail.com](mailto:manigupta28201@gmail.com)
 - GitHub: [ManixGT](https://github.com/ManixGT)
 - Linkedin: [Suryamani Gupta](http://www.linkedin.com/in/manig01)
