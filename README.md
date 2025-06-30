@@ -60,6 +60,34 @@ alps-crm/
 
   - **Admin**: Full CRUD on clients, projects, tickets
   - **Client**: View & edit own tickets, view projects
+  - _ADMIN_ : Full access and control (like a superuser)
+  - _CLIENT_ : Restricted to only what they own or are assigned to
+
+  # 🧑‍💼 Admin vs 👤 Client — Role Comparison
+
+  | Action / Permission       | **Admin**         | **Client**                       |
+  | ------------------------- | ----------------- | -------------------------------- |
+  | 🔐 Can log in/register    | ✅ Yes            | ✅ Yes                           |
+  | 👥 Manage (CRUD) clients  | ✅ Yes            | ❌ No                            |
+  | 🛠 Manage (CRUD) projects  | ✅ Yes            | ❌ No                            |
+  | 📋 View projects list     | ✅ Yes            | ✅ Yes                           |
+  | 🎟 Create/edit any ticket  | ✅ Yes            | ❌ No                            |
+  | 🎟 View own tickets        | ❌ Not limited    | ✅ Only their own tickets        |
+  | 📝 Edit own ticket status | ❌ Not needed     | ✅ Can update `status` field     |
+  | 💬 Comment on ticket      | ✅ Optional       | ✅ Optional                      |
+  | 📁 Upload/download files  | ✅ Yes            | ✅ Yes                           |
+  | 📊 Access dashboard       | ✅ Full dashboard | ❌ Not needed (unless specified) |
+
+  # 💡 Scenario Based understanding of Admin & Client role and responsiblity
+
+  | Situation                                    | Admin | Client |
+  | -------------------------------------------- | :---: | :----: |
+  | Create a new client                          |  ✅   |   ❌   |
+  | View all tickets in the system               |  ✅   |   ❌   |
+  | Comment on a ticket assigned to them         |  ✅   |   ✅   |
+  | Change status of a ticket they created       |  ✅   |   ✅   |
+  | Edit project details (status, dates, etc.)   |  ✅   |   ❌   |
+  | See dashboard stats (# of clients, projects) |  ✅   |   ❌   |
 
 ---
 
