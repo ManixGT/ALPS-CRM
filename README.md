@@ -180,8 +180,6 @@ For questions or feedback, please contact:
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - GitHub: [your-username](https://github.com/your-username)
 
----
-
 **Happy coding! 🚀**
 
 ```
