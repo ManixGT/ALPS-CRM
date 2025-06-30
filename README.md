@@ -1,7 +1,5 @@
 ````markdown
----
-title: "Alps CRM — Full‑Stack Assignment"
----
+Project Title: "Alps CRM — Full‑Stack Assignment"
 
 # 🧨 Alps CRM — Full‑Stack Assignment
 
@@ -77,13 +75,13 @@ alps-crm/
 
 ## 🛰 Tech Stack
 
-| Layer          | Technology                                   |
-| -------------- | -------------------------------------------- |
-| Frontend       | React or Next.js (v13+ App Router preferred) |
-| Backend        | Node.js + Express.js                         |
-| Database       | PostgreSQL or MySQL                          |
-| Authentication | JWT or NextAuth                              |
-| UI Framework   | TailwindCSS or Bootstrap                     |
+| Layer          | Technology Used      |
+| -------------- | -------------------- |
+| Frontend       | React                |
+| Backend        | Node.js + Express.js |
+| Database       | PostgreSQL or MySQL  |
+| Authentication | JWT                  |
+| UI Framework   | SCSS(module.css)     |
 
 ---
 
